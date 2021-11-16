@@ -69,7 +69,7 @@ section {
 }
 
 /* ----- styles for first column  ------ */
-
+/*Already scrollable?*/
 #playList {
    background-color: var(--list-bg-color);
 }
